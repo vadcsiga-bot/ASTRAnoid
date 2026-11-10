@@ -1,0 +1,17 @@
+{
+  "name": "Astranoid",
+  "short_name": "Astranoid",
+  "description": "Az Opel Rulett folytatása: szedd szét az Astrát, mielőtt a gépek szétszedik az idegeidet!",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17111f",
+  "theme_color": "#2B2140",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
